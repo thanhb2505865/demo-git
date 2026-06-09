@@ -1,1 +1,3 @@
 hello git 
+git commit de add vao khong luu ngang dc
+git status de kiem tra file 
